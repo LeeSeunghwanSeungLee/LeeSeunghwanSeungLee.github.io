@@ -7,187 +7,153 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Seunghwan Lee
+    tagline: Bacnend Developer (Data Engineering)
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: lshn1007@hanyang.ac.kr
+    phone: 010 0000 0000
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    website: velog.io/@lshn1007 #do not add http://
+    # linkedin: alandoe
+    # xing: alandoe
+    github: github.com/LeeSeunghwanSeungLee
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
+      - item: Soccer
+        # link:
 
-      - item: Snowboarding
-        link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm S/W Developer in Samsung electronics(Global Technology Research). 
+      I work for Smart Factory working group. 
+      Recently, I joined Software challenge project to develop engineering skills supported by Samsung Research.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc mechanical engineering
+      university: Hanyang University (Seoul)
+      time: 2014 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - GPA : 4.09 / 4.5(major 4.19)
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Backend
+      time: 2022.02 - Present
+      company: Samsung electronics, Global Technology Research
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Develop Manufacture Search Engine, distributed, 
+        full-text search engine with an HTTP web interface and schema-free JSON documents.
+          - Make pipeline distributed database
+          - Backend Service (Nest.js, Spring)
+          - Build Database (ELK, Neo4j, RDB ...)
+
+    - role: Frontend && Backend
+      time: 2020.03 - 2022.01
+      company: Samsung electronics, Global Technology Center
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Develop 3D Virtual Factory system to handle everything from manufacture Tield with speed and efficiency.
+          - Use Three.js library to make 3d rendering models in web (Vue.js)
+          - Rest api server using Express (Node.js)
+          - Handle Mssql procedures
+      
+    - role: Data Engineering
+      time: 2021 - 2022
+      company: Samsung electronics, Global Technology Center
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Lockdown Expectation modeling using machine learning.
+
+    - role: Frontend && Backend
+      time: 2020 - 2021
+      company: Samsung electronics, Global Technology Center
+      details: |
+        Develop Robot Control Interface platform 
+
+    - role: Frontend
+      time: 2020.03 - 2020.12
+      company: Samsung electronics, Global Technology Center
+      details: |
+        Develop Smart manufacture Monitoring System using webGL, combining MES with Web Service
+          - Use Three.js library to make 3d rendering models in web
+          - Rest api server using .NET WebFramework
+          - Handle Mssql procedures
+ 
 projects:
-    title: Projects
+    title: Toy Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These lists are toy projects which is self made. You can see the repositories on my github.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: foo
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "updating..."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Interests
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      1. Natural language processing
+      2. Visual Analytics
+      3. Reinforce Learning in Robots
+      4. Explainable Deep Learning
+      5. Algorithm
+    # papers:
+    #   - title: The Art of Computer Programming
+    #     link: "#"
+    #     authors: Donald E. Knuth
+    #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #     link: "#"
+    #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #   - title: A syntax directed compiler for Algol 60
+    #     link: "#"
+    #     authors: Edgar T. Irons
+    #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Javascript & Typescript
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 0%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
+      - name: RDB
+        level: 70%
+
+      - name: Frameworks (Vue, nest, express, pytorch, tensorflow)
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Infra (Docker, k8s, ELK, Neo4j, Linux ...)
+        level: 80%
+    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
