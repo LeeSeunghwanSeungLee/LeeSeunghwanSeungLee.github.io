@@ -13,12 +13,12 @@ sidebar:
 
     # Sidebar links
     email: lshn1007@hanyang.ac.kr
-    phone: 010 0000 0000
+#     phone: 010 0000 0000
     citizenship:
     website: velog.io/@lshn1007 #do not add http://
     # linkedin: alandoe
     # xing: alandoe
-    github: github.com/LeeSeunghwanSeungLee
+    github: LeeSeunghwanSeungLee
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
@@ -55,7 +55,7 @@ education:
         - GPA : 4.09 / 4.5(major 4.19)
 
 experiences:
-    - role: Backend
+    - role: Backend Developer
       time: 2022.02 - Present
       company: Samsung electronics, Global Technology Research
       details: |
@@ -65,7 +65,7 @@ experiences:
           - Backend Service (Nest.js, Spring)
           - Build Database (ELK, Neo4j, RDB ...)
 
-    - role: Frontend && Backend
+    - role: Full stack Developer
       time: 2020.03 - 2022.01
       company: Samsung electronics, Global Technology Center
       details: |
@@ -80,13 +80,13 @@ experiences:
       details: |
         Lockdown Expectation modeling using machine learning.
 
-    - role: Frontend && Backend
+    - role: Full stack Developer
       time: 2020 - 2021
       company: Samsung electronics, Global Technology Center
       details: |
         Develop Robot Control Interface platform 
 
-    - role: Frontend
+    - role: Frontend Developer
       time: 2020.03 - 2020.12
       company: Samsung electronics, Global Technology Center
       details: |
@@ -137,7 +137,7 @@ skills:
         level: 98%
 
       - name: Java
-        level: 0%
+        level: 90%
 
       - name: Python
         level: 80%
