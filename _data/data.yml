@@ -64,6 +64,7 @@ experiences:
           - Make pipeline distributed database
           - Backend Service (Nest.js, Spring)
           - Build Database (ELK, Neo4j, RDB ...)
+          - Airflow
 
     - role: Frontend && Backend
       time: 2020.03 - 2022.01
@@ -95,24 +96,26 @@ experiences:
           - Rest api server using .NET WebFramework
           - Handle Mssql procedures
  
-projects:
-    title: Toy Projects
-    intro: >
-      These lists are toy projects which is self made. You can see the repositories on my github.
-    assignments:
-      - title: foo
-        link: "#"
-        tagline: "updating..."
+# projects:
+#     title: Toy Projects
+#     intro: >
+#       These lists are toy projects which is self made. You can see the repositories on my github.
+#     assignments:
+#       - title: foo
+#         link: "#"
+#         tagline: "updating..."
 
 
 publications:
     title: Interests
     intro: |
-      1. Natural language processing
-      2. Visual Analytics
-      3. Reinforce Learning in Robots
-      4. Explainable Deep Learning
-      5. Algorithm
+      0. Cloud Service
+      1. Robot Service
+      2. Backend Framework
+      3. Object Oriented Programming
+      4. Design Pattern
+      5. Data Engineering
+      6. Algorithm
     # papers:
     #   - title: The Art of Computer Programming
     #     link: "#"
@@ -133,27 +136,47 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript & Typescript
-        level: 98%
-
       - name: Java
-        level: 0%
+        level: 80%
+        
+      - name: Javascript & Typescript
+        level: 70%
 
       - name: Python
-        level: 80%
+        level: 50%
+        
+      - name: C, C++
+        level: 50%
 
       - name: HTML5 & CSS
+        level: 50%
+        
+      - name: Spring
         level: 70%
+        
+      - name: Nest.js
+        level: 60%
 
       - name: RDB
-        level: 70%
+        level: 60%
+        
+      - name: Airflow
+        level: 50%
 
-      - name: Frameworks (Vue, nest, express, pytorch, tensorflow)
-        level: 85%
-
-      - name: Infra (Docker, k8s, ELK, Neo4j, Linux ...)
-        level: 80%
+      - name: Vue.js
+        level: 60%
+       
+      - name: Vuex
+        level: 60%
     
-
+      - name: Docker
+        level: 60%
+        
+      - name: Linux
+        level: 60%
+        
+      - name: git & github(action, issue, project, wiki ...)
+        level: 60%
+    
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
