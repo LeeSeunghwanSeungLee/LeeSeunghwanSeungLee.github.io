@@ -137,46 +137,43 @@ skills:
 
     toolset:
       - name: Java
-        level: 80%
+        level: 60%
         
       - name: Javascript & Typescript
-        level: 70%
+        level: 40%
 
       - name: Python
-        level: 50%
+        level: 30%
         
       - name: C, C++
-        level: 50%
+        level: 20%
 
       - name: HTML5 & CSS
-        level: 50%
+        level: 30%
         
       - name: Spring
-        level: 70%
+        level: 60%
         
       - name: Nest.js
-        level: 60%
+        level: 40%
 
       - name: RDB
-        level: 60%
+        level: 50%
         
       - name: Airflow
-        level: 50%
+        level: 40%
 
       - name: Vue.js
-        level: 60%
-       
-      - name: Vuex
-        level: 60%
+        level: 30%
     
       - name: Docker
-        level: 60%
+        level: 20%
         
       - name: Linux
-        level: 60%
+        level: 20%
         
       - name: git & github(action, issue, project, wiki ...)
-        level: 60%
+        level: 20%
     
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
